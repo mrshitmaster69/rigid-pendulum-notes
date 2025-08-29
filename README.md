@@ -18,6 +18,7 @@ If we start the **pendulum** oriented above its _pivot_ point, at its unstable e
 ## List
 * item 1
 * item 2
+* item 3
 
 ## Link
 [Google](www.google.com)
