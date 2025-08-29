@@ -24,4 +24,7 @@ If we start the **pendulum** oriented above its _pivot_ point, at its unstable e
 [Google](www.google.com)
 [Google again](www.google.com)
 
+## Commit Screenshot
+![commit](https://github.com/mrshitmaster69/rigid-pendulum-notes/blob/main/commits.png)
+
 
